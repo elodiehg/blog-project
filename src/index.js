@@ -1,1 +1,3 @@
-import "src/style.scss";
+import "/src/style.scss";
+
+console.log("index");
